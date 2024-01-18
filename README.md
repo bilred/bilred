@@ -3,6 +3,10 @@
 
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bilred&label=Profile%20views&color=0e75b6&style=flat" alt="lindakovacs" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilred&theme=onedark&row=1" alt="bilred" /></a> </p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
